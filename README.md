@@ -1,2 +1,2 @@
 # iom.brave
-code repository for ipm brave for dshud
+code repository for iom brave for dshud
